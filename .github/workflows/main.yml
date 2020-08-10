@@ -1,0 +1,23 @@
+name: CI
+
+on: [push]
+  # push:
+  #   paths:
+  #     - 'nominees/*.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - id: file_changes
+        uses: trilom/file-changes-action@v1.2.3
+      - name: install
+        run:
+          npm install
+      - name: open PR
+        env:
+          GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
+        run:
+          node scripts/open_pr.js
