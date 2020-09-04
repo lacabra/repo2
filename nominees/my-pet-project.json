@@ -1,0 +1,36 @@
+{
+  "name": "My Pet Project",
+  "description": "This is cool",
+  "website": "https://digitalpublicgoods.net",
+  "license": [
+    {
+      "spdx": "MIT",
+      "licenseURL": "https://example.com"
+    }
+  ],
+  "SDGs": [
+    [
+      "1",
+      "No Poverty"
+    ],
+    [
+      "2",
+      "Zero Hunger"
+    ],
+    [
+      "3",
+      "Good Health and Well-being"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "Victorious",
+      "org_type": "owner"
+    }
+  ]
+}
