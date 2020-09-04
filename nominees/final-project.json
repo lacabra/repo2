@@ -1,0 +1,39 @@
+{
+  "name": "Final Project",
+  "description": "this is it",
+  "website": "https://example.com",
+  "license": [
+    {
+      "spdx": "Unlicense",
+      "licenseURL": "https://github.com/unicef/publicgoods-candidates/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "SDGevidence": "here and there",
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/unicef/publicgoods-candidates",
+  "organizations": [
+    {
+      "name": "just me",
+      "org_type": "owner"
+    }
+  ]
+}
+
