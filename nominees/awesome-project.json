@@ -1,0 +1,38 @@
+{
+  "name": "Awesome Project",
+  "description": "Pure awesomeness",
+  "website": "https://example.com",
+  "license": [
+    {
+      "spdx": "Unlicense",
+      "licenseURL": "https://github.com/unicef/publicgoods-candidates/blob/master/LICENSE"
+    }
+  ],
+  "SDGs": [
+    [
+      1,
+      "No Poverty"
+    ],
+    [
+      2,
+      "Zero Hunger"
+    ],
+    [
+      17,
+      "Partnerships to achieve the Goal"
+    ]
+  ],
+  "sectors": [],
+  "type": [
+    "software",
+    "data"
+  ],
+  "repositoryURL": "https://github.com/unicef/publicgoods-candidates",
+  "organizations": [
+    {
+      "name": "Me, of course",
+      "org_type": "owner"
+    }
+  ]
+}
+
