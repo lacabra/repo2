@@ -1,0 +1,29 @@
+{
+  "name": "myfile1",
+  "description": "desc",
+  "website": "https://example.com",
+  "license": [
+    {
+      "spdx": "AGPL-3.0-only",
+      "licenseURL": "https://example.com"
+    }
+  ],
+  "SDGs": [
+    [
+      2,
+      "Zero Hunger"
+    ]
+  ],
+  "SDGevidence": "https://example.com",
+  "sectors": [],
+  "type": [
+    "aimodel"
+  ],
+  "organizations": [
+    {
+      "name": "me",
+      "org_type": "owner"
+    }
+  ]
+}
+
