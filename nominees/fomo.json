@@ -1,0 +1,29 @@
+{
+  "name": "fomo",
+  "description": "desc",
+  "website": "https://example.com",
+  "license": [
+    {
+      "spdx": "Artistic-1.0",
+      "licenseURL": "https://example.com"
+    }
+  ],
+  "SDGs": [
+    [
+      5,
+      "Gender Equality"
+    ]
+  ],
+  "SDGevidence": "https://example.com",
+  "sectors": [],
+  "type": [
+    "standard"
+  ],
+  "organizations": [
+    {
+      "name": "you",
+      "org_type": "owner"
+    }
+  ]
+}
+
