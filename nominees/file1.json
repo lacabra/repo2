@@ -1,3 +1,29 @@
-file1
-file2
-f
+{
+  "name": "file1",
+  "description": "desc",
+  "website": "https://example.com",
+  "license": [
+    {
+      "spdx": "APSL-2.0",
+      "licenseURL": "https://example.com"
+    }
+  ],
+  "SDGs": [
+    [
+      3,
+      "Good Health and Well-Being"
+    ]
+  ],
+  "SDGevidence": "https://example.com",
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "organizations": [
+    {
+      "name": "me",
+      "org_type": "owner"
+    }
+  ]
+}
+
